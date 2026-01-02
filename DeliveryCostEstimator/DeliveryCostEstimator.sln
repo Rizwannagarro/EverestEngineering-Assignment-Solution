@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeliveryCostEstimator", "DeliveryCostEstimator\DeliveryCostEstimator.csproj", "{224F614B-9152-4526-9012-5A762AB9DBD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeliveryCostEstimator.Tests", "DeliveryCostEstimator.Tests\DeliveryCostEstimator.Tests.csproj", "{C18B58C8-D798-4795-8B22-9429BBCE7540}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{224F614B-9152-4526-9012-5A762AB9DBD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{224F614B-9152-4526-9012-5A762AB9DBD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{224F614B-9152-4526-9012-5A762AB9DBD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{224F614B-9152-4526-9012-5A762AB9DBD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C18B58C8-D798-4795-8B22-9429BBCE7540}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C18B58C8-D798-4795-8B22-9429BBCE7540}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C18B58C8-D798-4795-8B22-9429BBCE7540}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C18B58C8-D798-4795-8B22-9429BBCE7540}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50AA932F-B748-4813-A501-32D97D3B26FF}
+	EndGlobalSection
+EndGlobal

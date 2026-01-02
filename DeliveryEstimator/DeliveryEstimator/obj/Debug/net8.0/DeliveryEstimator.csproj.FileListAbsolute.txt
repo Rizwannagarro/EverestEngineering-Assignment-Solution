@@ -1,0 +1,15 @@
+C:\Users\rizwa\OneDrive\Desktop\Everest Engineering\DeliveryEstimator\DeliveryEstimator\bin\Debug\net8.0\DeliveryEstimator.exe
+C:\Users\rizwa\OneDrive\Desktop\Everest Engineering\DeliveryEstimator\DeliveryEstimator\bin\Debug\net8.0\DeliveryEstimator.deps.json
+C:\Users\rizwa\OneDrive\Desktop\Everest Engineering\DeliveryEstimator\DeliveryEstimator\bin\Debug\net8.0\DeliveryEstimator.runtimeconfig.json
+C:\Users\rizwa\OneDrive\Desktop\Everest Engineering\DeliveryEstimator\DeliveryEstimator\bin\Debug\net8.0\DeliveryEstimator.dll
+C:\Users\rizwa\OneDrive\Desktop\Everest Engineering\DeliveryEstimator\DeliveryEstimator\bin\Debug\net8.0\DeliveryEstimator.pdb
+C:\Users\rizwa\OneDrive\Desktop\Everest Engineering\DeliveryEstimator\DeliveryEstimator\obj\Debug\net8.0\DeliveryEstimator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rizwa\OneDrive\Desktop\Everest Engineering\DeliveryEstimator\DeliveryEstimator\obj\Debug\net8.0\DeliveryEstimator.AssemblyInfoInputs.cache
+C:\Users\rizwa\OneDrive\Desktop\Everest Engineering\DeliveryEstimator\DeliveryEstimator\obj\Debug\net8.0\DeliveryEstimator.AssemblyInfo.cs
+C:\Users\rizwa\OneDrive\Desktop\Everest Engineering\DeliveryEstimator\DeliveryEstimator\obj\Debug\net8.0\DeliveryEstimator.csproj.CoreCompileInputs.cache
+C:\Users\rizwa\OneDrive\Desktop\Everest Engineering\DeliveryEstimator\DeliveryEstimator\obj\Debug\net8.0\DeliveryEstimator.dll
+C:\Users\rizwa\OneDrive\Desktop\Everest Engineering\DeliveryEstimator\DeliveryEstimator\obj\Debug\net8.0\refint\DeliveryEstimator.dll
+C:\Users\rizwa\OneDrive\Desktop\Everest Engineering\DeliveryEstimator\DeliveryEstimator\obj\Debug\net8.0\DeliveryEstimator.pdb
+C:\Users\rizwa\OneDrive\Desktop\Everest Engineering\DeliveryEstimator\DeliveryEstimator\obj\Debug\net8.0\DeliveryEstimator.genruntimeconfig.cache
+C:\Users\rizwa\OneDrive\Desktop\Everest Engineering\DeliveryEstimator\DeliveryEstimator\obj\Debug\net8.0\ref\DeliveryEstimator.dll
+C:\Users\rizwa\OneDrive\Desktop\Everest Engineering\DeliveryEstimator\DeliveryEstimator\obj\Debug\net8.0\DeliveryEstimator.sourcelink.json

@@ -1,0 +1,252 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rizwa\\OneDrive\\Desktop\\Everest Engineering\\EveRepo\\DeliveryCostEstimator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C18B58C8-D798-4795-8B22-9429BBCE7540}|DeliveryCostEstimator.Tests\\DeliveryCostEstimator.Tests.csproj|c:\\users\\rizwa\\onedrive\\desktop\\everest engineering\\everepo\\deliverycostestimator\\deliverycostestimator.tests\\deliverycostservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C18B58C8-D798-4795-8B22-9429BBCE7540}|DeliveryCostEstimator.Tests\\DeliveryCostEstimator.Tests.csproj|solutionrelative:deliverycostestimator.tests\\deliverycostservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C18B58C8-D798-4795-8B22-9429BBCE7540}|DeliveryCostEstimator.Tests\\DeliveryCostEstimator.Tests.csproj|c:\\users\\rizwa\\onedrive\\desktop\\everest engineering\\everepo\\deliverycostestimator\\deliverycostestimator.tests\\offerservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C18B58C8-D798-4795-8B22-9429BBCE7540}|DeliveryCostEstimator.Tests\\DeliveryCostEstimator.Tests.csproj|solutionrelative:deliverycostestimator.tests\\offerservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C18B58C8-D798-4795-8B22-9429BBCE7540}|DeliveryCostEstimator.Tests\\DeliveryCostEstimator.Tests.csproj|c:\\users\\rizwa\\onedrive\\desktop\\everest engineering\\everepo\\deliverycostestimator\\deliverycostestimator.tests\\offerstrategytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C18B58C8-D798-4795-8B22-9429BBCE7540}|DeliveryCostEstimator.Tests\\DeliveryCostEstimator.Tests.csproj|solutionrelative:deliverycostestimator.tests\\offerstrategytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{224F614B-9152-4526-9012-5A762AB9DBD4}|DeliveryCostEstimator\\DeliveryCostEstimator.csproj|c:\\users\\rizwa\\onedrive\\desktop\\everest engineering\\everepo\\deliverycostestimator\\deliverycostestimator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{224F614B-9152-4526-9012-5A762AB9DBD4}|DeliveryCostEstimator\\DeliveryCostEstimator.csproj|solutionrelative:deliverycostestimator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{224F614B-9152-4526-9012-5A762AB9DBD4}|DeliveryCostEstimator\\DeliveryCostEstimator.csproj|c:\\users\\rizwa\\onedrive\\desktop\\everest engineering\\everepo\\deliverycostestimator\\deliverycostestimator\\services\\deliverycostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{224F614B-9152-4526-9012-5A762AB9DBD4}|DeliveryCostEstimator\\DeliveryCostEstimator.csproj|solutionrelative:deliverycostestimator\\services\\deliverycostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{224F614B-9152-4526-9012-5A762AB9DBD4}|DeliveryCostEstimator\\DeliveryCostEstimator.csproj|c:\\users\\rizwa\\onedrive\\desktop\\everest engineering\\everepo\\deliverycostestimator\\deliverycostestimator\\deliverycostestimator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{224F614B-9152-4526-9012-5A762AB9DBD4}|DeliveryCostEstimator\\DeliveryCostEstimator.csproj|solutionrelative:deliverycostestimator\\deliverycostestimator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{224F614B-9152-4526-9012-5A762AB9DBD4}|DeliveryCostEstimator\\DeliveryCostEstimator.csproj|c:\\users\\rizwa\\onedrive\\desktop\\everest engineering\\everepo\\deliverycostestimator\\deliverycostestimator\\entities\\package.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{224F614B-9152-4526-9012-5A762AB9DBD4}|DeliveryCostEstimator\\DeliveryCostEstimator.csproj|solutionrelative:deliverycostestimator\\entities\\package.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{224F614B-9152-4526-9012-5A762AB9DBD4}|DeliveryCostEstimator\\DeliveryCostEstimator.csproj|c:\\users\\rizwa\\onedrive\\desktop\\everest engineering\\everepo\\deliverycostestimator\\deliverycostestimator\\entities\\offer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{224F614B-9152-4526-9012-5A762AB9DBD4}|DeliveryCostEstimator\\DeliveryCostEstimator.csproj|solutionrelative:deliverycostestimator\\entities\\offer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{224F614B-9152-4526-9012-5A762AB9DBD4}|DeliveryCostEstimator\\DeliveryCostEstimator.csproj|c:\\users\\rizwa\\onedrive\\desktop\\everest engineering\\everepo\\deliverycostestimator\\deliverycostestimator\\model\\showresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{224F614B-9152-4526-9012-5A762AB9DBD4}|DeliveryCostEstimator\\DeliveryCostEstimator.csproj|solutionrelative:deliverycostestimator\\model\\showresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{224F614B-9152-4526-9012-5A762AB9DBD4}|DeliveryCostEstimator\\DeliveryCostEstimator.csproj|c:\\users\\rizwa\\onedrive\\desktop\\everest engineering\\everepo\\deliverycostestimator\\deliverycostestimator\\services\\offerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{224F614B-9152-4526-9012-5A762AB9DBD4}|DeliveryCostEstimator\\DeliveryCostEstimator.csproj|solutionrelative:deliverycostestimator\\services\\offerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{224F614B-9152-4526-9012-5A762AB9DBD4}|DeliveryCostEstimator\\DeliveryCostEstimator.csproj|c:\\users\\rizwa\\onedrive\\desktop\\everest engineering\\everepo\\deliverycostestimator\\deliverycostestimator\\offers\\offerofr002.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{224F614B-9152-4526-9012-5A762AB9DBD4}|DeliveryCostEstimator\\DeliveryCostEstimator.csproj|solutionrelative:deliverycostestimator\\offers\\offerofr002.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{224F614B-9152-4526-9012-5A762AB9DBD4}|DeliveryCostEstimator\\DeliveryCostEstimator.csproj|c:\\users\\rizwa\\onedrive\\desktop\\everest engineering\\everepo\\deliverycostestimator\\deliverycostestimator\\offers\\offerofr003.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{224F614B-9152-4526-9012-5A762AB9DBD4}|DeliveryCostEstimator\\DeliveryCostEstimator.csproj|solutionrelative:deliverycostestimator\\offers\\offerofr003.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{224F614B-9152-4526-9012-5A762AB9DBD4}|DeliveryCostEstimator\\DeliveryCostEstimator.csproj|c:\\users\\rizwa\\onedrive\\desktop\\everest engineering\\everepo\\deliverycostestimator\\deliverycostestimator\\offers\\offerofr001.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{224F614B-9152-4526-9012-5A762AB9DBD4}|DeliveryCostEstimator\\DeliveryCostEstimator.csproj|solutionrelative:deliverycostestimator\\offers\\offerofr001.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{224F614B-9152-4526-9012-5A762AB9DBD4}|DeliveryCostEstimator\\DeliveryCostEstimator.csproj|c:\\users\\rizwa\\onedrive\\desktop\\everest engineering\\everepo\\deliverycostestimator\\deliverycostestimator\\interfaces\\iofferstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{224F614B-9152-4526-9012-5A762AB9DBD4}|DeliveryCostEstimator\\DeliveryCostEstimator.csproj|solutionrelative:deliverycostestimator\\interfaces\\iofferstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 245,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DeliveryCostServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\rizwa\\OneDrive\\Desktop\\Everest Engineering\\EveRepo\\DeliveryCostEstimator\\DeliveryCostEstimator.Tests\\DeliveryCostServiceTests.cs",
+              "RelativeDocumentMoniker": "DeliveryCostEstimator.Tests\\DeliveryCostServiceTests.cs",
+              "ToolTip": "C:\\Users\\rizwa\\OneDrive\\Desktop\\Everest Engineering\\EveRepo\\DeliveryCostEstimator\\DeliveryCostEstimator.Tests\\DeliveryCostServiceTests.cs",
+              "RelativeToolTip": "DeliveryCostEstimator.Tests\\DeliveryCostServiceTests.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T17:18:45.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OfferServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\rizwa\\OneDrive\\Desktop\\Everest Engineering\\EveRepo\\DeliveryCostEstimator\\DeliveryCostEstimator.Tests\\OfferServiceTests.cs",
+              "RelativeDocumentMoniker": "DeliveryCostEstimator.Tests\\OfferServiceTests.cs",
+              "ToolTip": "C:\\Users\\rizwa\\OneDrive\\Desktop\\Everest Engineering\\EveRepo\\DeliveryCostEstimator\\DeliveryCostEstimator.Tests\\OfferServiceTests.cs",
+              "RelativeToolTip": "DeliveryCostEstimator.Tests\\OfferServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T17:18:08.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OfferStrategyTests.cs",
+              "DocumentMoniker": "C:\\Users\\rizwa\\OneDrive\\Desktop\\Everest Engineering\\EveRepo\\DeliveryCostEstimator\\DeliveryCostEstimator.Tests\\OfferStrategyTests.cs",
+              "RelativeDocumentMoniker": "DeliveryCostEstimator.Tests\\OfferStrategyTests.cs",
+              "ToolTip": "C:\\Users\\rizwa\\OneDrive\\Desktop\\Everest Engineering\\EveRepo\\DeliveryCostEstimator\\DeliveryCostEstimator.Tests\\OfferStrategyTests.cs",
+              "RelativeToolTip": "DeliveryCostEstimator.Tests\\OfferStrategyTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T17:16:36.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ShowResult.cs",
+              "DocumentMoniker": "C:\\Users\\rizwa\\OneDrive\\Desktop\\Everest Engineering\\EveRepo\\DeliveryCostEstimator\\DeliveryCostEstimator\\Model\\ShowResult.cs",
+              "RelativeDocumentMoniker": "DeliveryCostEstimator\\Model\\ShowResult.cs",
+              "ToolTip": "C:\\Users\\rizwa\\OneDrive\\Desktop\\Everest Engineering\\EveRepo\\DeliveryCostEstimator\\DeliveryCostEstimator\\Model\\ShowResult.cs",
+              "RelativeToolTip": "DeliveryCostEstimator\\Model\\ShowResult.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T16:42:09.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OfferOFR003.cs",
+              "DocumentMoniker": "C:\\Users\\rizwa\\OneDrive\\Desktop\\Everest Engineering\\EveRepo\\DeliveryCostEstimator\\DeliveryCostEstimator\\Offers\\OfferOFR003.cs",
+              "RelativeDocumentMoniker": "DeliveryCostEstimator\\Offers\\OfferOFR003.cs",
+              "ToolTip": "C:\\Users\\rizwa\\OneDrive\\Desktop\\Everest Engineering\\EveRepo\\DeliveryCostEstimator\\DeliveryCostEstimator\\Offers\\OfferOFR003.cs",
+              "RelativeToolTip": "DeliveryCostEstimator\\Offers\\OfferOFR003.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T15:56:41.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OfferOFR002.cs",
+              "DocumentMoniker": "C:\\Users\\rizwa\\OneDrive\\Desktop\\Everest Engineering\\EveRepo\\DeliveryCostEstimator\\DeliveryCostEstimator\\Offers\\OfferOFR002.cs",
+              "RelativeDocumentMoniker": "DeliveryCostEstimator\\Offers\\OfferOFR002.cs",
+              "ToolTip": "C:\\Users\\rizwa\\OneDrive\\Desktop\\Everest Engineering\\EveRepo\\DeliveryCostEstimator\\DeliveryCostEstimator\\Offers\\OfferOFR002.cs",
+              "RelativeToolTip": "DeliveryCostEstimator\\Offers\\OfferOFR002.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T15:56:32.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OfferOFR001.cs",
+              "DocumentMoniker": "C:\\Users\\rizwa\\OneDrive\\Desktop\\Everest Engineering\\EveRepo\\DeliveryCostEstimator\\DeliveryCostEstimator\\Offers\\OfferOFR001.cs",
+              "RelativeDocumentMoniker": "DeliveryCostEstimator\\Offers\\OfferOFR001.cs",
+              "ToolTip": "C:\\Users\\rizwa\\OneDrive\\Desktop\\Everest Engineering\\EveRepo\\DeliveryCostEstimator\\DeliveryCostEstimator\\Offers\\OfferOFR001.cs",
+              "RelativeToolTip": "DeliveryCostEstimator\\Offers\\OfferOFR001.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T15:56:23.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OfferService.cs",
+              "DocumentMoniker": "C:\\Users\\rizwa\\OneDrive\\Desktop\\Everest Engineering\\EveRepo\\DeliveryCostEstimator\\DeliveryCostEstimator\\Services\\OfferService.cs",
+              "RelativeDocumentMoniker": "DeliveryCostEstimator\\Services\\OfferService.cs",
+              "ToolTip": "C:\\Users\\rizwa\\OneDrive\\Desktop\\Everest Engineering\\EveRepo\\DeliveryCostEstimator\\DeliveryCostEstimator\\Services\\OfferService.cs",
+              "RelativeToolTip": "DeliveryCostEstimator\\Services\\OfferService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T15:55:39.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DeliveryCostService.cs",
+              "DocumentMoniker": "C:\\Users\\rizwa\\OneDrive\\Desktop\\Everest Engineering\\EveRepo\\DeliveryCostEstimator\\DeliveryCostEstimator\\Services\\DeliveryCostService.cs",
+              "RelativeDocumentMoniker": "DeliveryCostEstimator\\Services\\DeliveryCostService.cs",
+              "ToolTip": "C:\\Users\\rizwa\\OneDrive\\Desktop\\Everest Engineering\\EveRepo\\DeliveryCostEstimator\\DeliveryCostEstimator\\Services\\DeliveryCostService.cs",
+              "RelativeToolTip": "DeliveryCostEstimator\\Services\\DeliveryCostService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwB0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T15:55:27.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rizwa\\OneDrive\\Desktop\\Everest Engineering\\EveRepo\\DeliveryCostEstimator\\DeliveryCostEstimator\\Program.cs",
+              "RelativeDocumentMoniker": "DeliveryCostEstimator\\Program.cs",
+              "ToolTip": "C:\\Users\\rizwa\\OneDrive\\Desktop\\Everest Engineering\\EveRepo\\DeliveryCostEstimator\\DeliveryCostEstimator\\Program.cs",
+              "RelativeToolTip": "DeliveryCostEstimator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T14:40:30.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IOfferStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\rizwa\\OneDrive\\Desktop\\Everest Engineering\\EveRepo\\DeliveryCostEstimator\\DeliveryCostEstimator\\Interfaces\\IOfferStrategy.cs",
+              "RelativeDocumentMoniker": "DeliveryCostEstimator\\Interfaces\\IOfferStrategy.cs",
+              "ToolTip": "C:\\Users\\rizwa\\OneDrive\\Desktop\\Everest Engineering\\EveRepo\\DeliveryCostEstimator\\DeliveryCostEstimator\\Interfaces\\IOfferStrategy.cs",
+              "RelativeToolTip": "DeliveryCostEstimator\\Interfaces\\IOfferStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T15:54:40.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Offer.cs",
+              "DocumentMoniker": "C:\\Users\\rizwa\\OneDrive\\Desktop\\Everest Engineering\\EveRepo\\DeliveryCostEstimator\\DeliveryCostEstimator\\Entities\\Offer.cs",
+              "RelativeDocumentMoniker": "DeliveryCostEstimator\\Entities\\Offer.cs",
+              "ToolTip": "C:\\Users\\rizwa\\OneDrive\\Desktop\\Everest Engineering\\EveRepo\\DeliveryCostEstimator\\DeliveryCostEstimator\\Entities\\Offer.cs",
+              "RelativeToolTip": "DeliveryCostEstimator\\Entities\\Offer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T15:53:57.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Package.cs",
+              "DocumentMoniker": "C:\\Users\\rizwa\\OneDrive\\Desktop\\Everest Engineering\\EveRepo\\DeliveryCostEstimator\\DeliveryCostEstimator\\Entities\\Package.cs",
+              "RelativeDocumentMoniker": "DeliveryCostEstimator\\Entities\\Package.cs",
+              "ToolTip": "C:\\Users\\rizwa\\OneDrive\\Desktop\\Everest Engineering\\EveRepo\\DeliveryCostEstimator\\DeliveryCostEstimator\\Entities\\Package.cs",
+              "RelativeToolTip": "DeliveryCostEstimator\\Entities\\Package.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T15:53:44.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DeliveryCostEstimator.csproj",
+              "DocumentMoniker": "C:\\Users\\rizwa\\OneDrive\\Desktop\\Everest Engineering\\EveRepo\\DeliveryCostEstimator\\DeliveryCostEstimator\\DeliveryCostEstimator.csproj",
+              "RelativeDocumentMoniker": "DeliveryCostEstimator\\DeliveryCostEstimator.csproj",
+              "ToolTip": "C:\\Users\\rizwa\\OneDrive\\Desktop\\Everest Engineering\\EveRepo\\DeliveryCostEstimator\\DeliveryCostEstimator\\DeliveryCostEstimator.csproj",
+              "RelativeToolTip": "DeliveryCostEstimator\\DeliveryCostEstimator.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-23T15:54:03.179Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
